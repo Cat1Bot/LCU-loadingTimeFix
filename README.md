@@ -3,4 +3,4 @@ Fixes the issue in patch 14.18 where the League client takes abnomally long time
 # How to install
 First make sure you have Pengu Loader installed. Pengu loader is a javascript plugin loader the the League Client frontend, think of it like BetterDiscord or Vencord. After installing Pengu Loader, open the app (you may need to accept UAC prompt) then go the Plugins tab and click "Open folder", paste **LCUloadingfix.js** in there. To initialize the plugin, you can either restart the client or open devtools (F12/Ctrl+Shift+i) and refresh the client by pressing Crtl+r.
 # Coming Soon
-This plugin is part of a missive League Client debloatter plugin im currently working on, when I finish it, ill link it here.
+This plugin is part of a ultimate League Client debloatter plugin im currently working on. If you want to contact me, you can join Pengu Loader Discord server or my Discord handle is: c4t_bot
